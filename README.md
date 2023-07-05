@@ -6,5 +6,5 @@ Python 3.11, PyTelegramBotApi, random, SQLite3
 
 ## Фото
 
-![images/TicTacToe.jpg](images/TicTacToe.jpg)
+![images/Tic Tac Toe.png](images/Tic Tac Toe.png)
 Поле для игры
